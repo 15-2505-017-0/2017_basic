@@ -20,8 +20,12 @@
 ## CHAPTER01
 
 1. Androidとは
-    - 世界で最も普及しているスマートフォン用のOS。  
-  [Smartphone Volumes Expected to Rebound in 2017 with a Five-Year Growth Rate of 3.8%, Driving Annual Shipments to 1.53 Billion by 2021, According to IDC](http://www.idc.com/getdoc.jsp?containerId=prUS42334717)
+    - 世界で最も普及しているスマートフォン用のOS。
+        - 世界  
+        [Smartphone Volumes Expected to Rebound in 2017 with a Five-Year Growth Rate of 3.8%, Driving Annual Shipments to 1.53 Billion by 2021, According to IDC](http://www.idc.com/getdoc.jsp?containerId=prUS42334717)
+        - 都市別  
+        [Smartphone OS sales market share â€“ Kantar Worldpanel ComTech](https://www.kantarworldpanel.com/global/smartphone-os-market-share/)
+
     - オープンソースライセンス。（Apache License 2.0）
       - WebKitのライセンスはLGPL。
       - LinuxカーネルとライブラリはGPL。
