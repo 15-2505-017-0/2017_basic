@@ -126,7 +126,7 @@
             - long
             - float
 
-## GitHub演習
+## [GitHub演習](https://github.com/yu-enpit/2017_basic_exercise1#github%E6%BC%94%E7%BF%92)
 
 1. 課題提出用リポジトリの作成
 2. Fork（フォーク）
