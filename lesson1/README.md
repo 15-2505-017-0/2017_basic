@@ -16,7 +16,8 @@
 - コーディング規約
   - 参考サイト  
     - [Javaコーディング規約](https://future-architect.github.io/coding-standards/documents/forJava/Java%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E8%A6%8F%E7%B4%84.html)
-  
+
+---
 ## CHAPTER01
 
 1. Androidとは
@@ -40,6 +41,7 @@
     - 6/28に実施済み。
     - マニュアル「1.Android Studioのセットアップ」を参照。
 
+---
 ## CHAPTER02
   - 6/28に実施済み。
   - 以下のマニュアルを参照。
@@ -48,7 +50,7 @@
       - 4.HP ProBook 430 G3 Notebook PC BIOSの設定
       - 5.ASUS ZenPad 10 実機デバッグの設定
 
-
+---
 ## CHAPTER03
 
 1. Androidのプロジェクト
@@ -98,6 +100,7 @@
         onStop() > onCreate()  
         onDestroy() > onCreate()
 
+---
 ## CHAPTER04
 
 1. じゃんけんアプリの構成
@@ -126,6 +129,7 @@
             - long
             - float
 
+---
 ## [GitHub演習](https://github.com/yu-enpit/2017_basic_exercise1#github%E6%BC%94%E7%BF%92)
 
 1. 課題提出用リポジトリの作成
@@ -136,7 +140,7 @@
 6. Push（プッシュ）
 7. Pull Request（プルリクエスト）
 
-
+---
 ## 宿題
 
 - CHAPTER04の残り
