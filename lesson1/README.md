@@ -105,6 +105,17 @@
         onDestroy() > onCreate()
 
 ---
+## [GitHub演習](https://github.com/yu-enpit/2017_basic_exercise1#github%E6%BC%94%E7%BF%92)
+
+1. 課題提出用リポジトリの作成
+2. Fork（フォーク）
+3. Clone（クローン）
+4. プログラム修正
+5. Commit（コミット）
+6. Push（プッシュ）
+7. Pull Request（プルリクエスト）
+
+---
 ## CHAPTER04
 
 1. じゃんけんアプリの構成
@@ -132,18 +143,6 @@
             - int
             - long
             - float
-
----
-## [GitHub演習](https://github.com/yu-enpit/2017_basic_exercise1#github%E6%BC%94%E7%BF%92)
-
-1. 課題提出用リポジトリの作成
-2. Fork（フォーク）
-3. Clone（クローン）
-4. プログラム修正
-5. Commit（コミット）
-6. Push（プッシュ）
-7. Pull Request（プルリクエスト）
-
 ---
 ## 宿題
 
